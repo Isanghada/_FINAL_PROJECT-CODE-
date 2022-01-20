@@ -1,0 +1,7 @@
+1. 자연어 처리 테스트
+    - keyword(9개), category_group_name(3개)를 기준으로 각 장소의 자연어 속성 추가
+    - Cosine Similarity를 이용하여 테스트
+
+2. 서귀포 데이터 정리
+    - 필요없는 이미지 확인 및 삭제
+    - 이미지 Resize : 224 x 224
